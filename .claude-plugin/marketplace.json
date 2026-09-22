@@ -1,0 +1,15 @@
+{
+  "name": "pokpok-marketplace",
+  "owner": {
+    "name": "POKPOK",
+    "url": "https://pokpok.ai"
+  },
+  "plugins": [
+    {
+      "name": "pokpok",
+      "description": "Brand-perception reports: how people and AI engines read a brand, and what to fix.",
+      "source": "./"
+    }
+  ],
+  "description": "POKPOK brand-perception tools for Claude: how people and AI answer engines read a brand, and what to fix."
+}
