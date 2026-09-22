@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pokpok": {
+      "type": "http",
+      "url": "https://auth.pokpok.ai/functions/v1/pokpok-mcp-v2/private"
+    }
+  }
+}
