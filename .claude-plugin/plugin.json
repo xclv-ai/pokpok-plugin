@@ -1,0 +1,11 @@
+{
+  "name": "pokpok",
+  "displayName": "POKPOK",
+  "version": "1.3.0",
+  "description": "POKPOK measures how people and AI answer engines read a brand's web presence, and reports the gap. Connects Claude to POKPOK's brand-perception reports and teaches the standard brand review.",
+  "author": { "name": "POKPOK", "url": "https://pokpok.ai" },
+  "homepage": "https://pokpok.ai",
+  "repository": "https://github.com/xclv-ai/pokpok-plugin",
+  "keywords": ["brand", "brand-perception", "ai-visibility", "marketing", "answer-engines", "geo"],
+  "mcpServers": "./.mcp.json"
+}
