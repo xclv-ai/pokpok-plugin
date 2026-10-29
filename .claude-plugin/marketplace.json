@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "pokpok",
-      "description": "Brand-perception reports: how people and AI engines read a brand, and what to fix.",
+      "description": "Brand-perception reports: how people and AI engines read a brand, who AI names instead, what to fix; drawn as a POKPOK page in chats that can draw it. With Dr HAOS, POKPOK's Brand Perception Agent.",
       "source": "./"
     }
   ],
